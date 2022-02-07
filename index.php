@@ -14,10 +14,10 @@
 <td><img src="2.png"></td>
 </tr>
 <tr bgcolor="gray">
-<th><font size="6" face="Broadway"><a href="file:///C:/Users/HP/Desktop/HTML%20THINGZ/SCAFFOLD%201/MATH.html">MATH</a></font></th>	
-<th><font size="6" face="Broadway"><a href="file:///C:/Users/HP/Desktop/HTML%20THINGZ/SCAFFOLD%201/TLE.html">TLE</a></font></th>
-<th><font size="6" face="Broadway"><a href="file:///C:/Users/HP/Desktop/HTML%20THINGZ/SCAFFOLD%201/CAE.html">CAE</a></font></th>
-<th><font size="6" face="Broadway"><a href="file:///C:/Users/HP/Desktop/HTML%20THINGZ/SCAFFOLD%201/CLE.html">CLE</a></font></th>
+<th><font size="6" face="Broadway"><a href="MATH.php">MATH</a></font></th>	
+<th><font size="6" face="Broadway"><a href="TLE.php">TLE</a></font></th>
+<th><font size="6" face="Broadway"><a href="CAE.php">CAE</a></font></th>
+<th><font size="6" face="Broadway"><a href="CLE.php">CLE</a></font></th>
 </tr>
 </table>
 </body>
