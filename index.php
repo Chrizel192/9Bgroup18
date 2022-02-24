@@ -14,7 +14,7 @@
 <td><img src="2nd.png"></td>
 </tr>
 <tr bgcolor="gray">
-<th><font size="6" face="Broadway"><a href:"MATH.php">MATH</a></font></th>	
+<th><font size="6" face="Broadway"><a href="MATH.php">MATH</a></font></th>	
 <th><font size="6" face="Broadway"><a href="TLE.php">TLE</a></font></th>
 <th><font size="6" face="Broadway"><a href="CAE.php">CAE</a></font></th>
 <th><font size="6" face="Broadway"><a href="CLE.php">CLE</a></font></th>
