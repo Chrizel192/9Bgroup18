@@ -5,7 +5,7 @@
 <body align="center" bgcolor="#bbbbbb">
 <img src="MATH.png" height="40%" width="80%">
 <p>
-<img src="MATH PT.png" height="90%" width="60%">
+<img src="MATH PT.png" height="90%" width="80%">
 <p>
 <Font size="19">CLICK THIS LINK TO SEE THE VIDEO</font>
 <p>
