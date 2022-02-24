@@ -8,10 +8,10 @@
 <br>
 <table border="2" align="center" bgcolor="white">
 <tr>
-<td><img src="4.png"></td>
-<td><img src="3.png"></td>
-<td><img src="1.png"></td>
-<td><img src="2.png"></td>
+<td><img src="4th.png"></td>
+<td><img src="3rd.png"></td>
+<td><img src="1st.png"></td>
+<td><img src="2nd.png"></td>
 </tr>
 <tr bgcolor="gray">
 <th><font size="6" face="Broadway"><a href="MATH.php">MATH</a></font></th>	
